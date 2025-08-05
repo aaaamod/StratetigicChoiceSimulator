@@ -1,0 +1,40 @@
+.result-css{
+  font-size: 25px;
+ }
+ .scores-css{
+   padding-top: 100px;
+   border-color: white;
+ }
+
+p{
+  font-weight: bold;
+ }
+ body{
+   background-color: rgb(25, 25, 25);
+   color: white;
+   font-family: arial;
+ }
+ .reset-button{
+   padding: 10px;
+   background-color: white;
+   color: black;
+   height: 37px;
+   font-weight: bold;
+   border-radius: 0px;
+ }
+
+img{
+ height: 45px;
+}
+button{
+ background-color: transparent;/*see throught , aar-paar*/
+ height: 120px;
+ width: 120px;
+ border-radius: 80px;
+ border-color: white;
+ border-style: solid;
+ border-width: 3px;
+ margin-right: 8px;
+ margin-bottom: 40px;
+ cursor: pointer;
+}
